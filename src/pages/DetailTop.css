@@ -1,0 +1,31 @@
+.contentDetailTop {
+    padding-top: 120px;
+    text-align: center;
+  }
+  
+  
+  
+  .cardDetailTop{
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #585e84;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 14px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .contentDetailTop {
+      padding-top: 10px;
+      width: 40%;
+      margin: auto;
+    }
+  }
+
+  .contentBooks{
+    color: #525ca6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    line-height: 16px;
+}

@@ -1,0 +1,27 @@
+.containerWelcome {
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#welcome {
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 36px;
+    color:  #F39650;
+    margin: auto;
+    width: 100%;
+}
+
+
+#welcomeMessage2 {
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 18px;
+    color:  #1b1b1b;
+    margin: auto;
+    width: 100%;
+}

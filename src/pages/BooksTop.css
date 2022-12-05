@@ -1,0 +1,14 @@
+.contentTop{
+    padding-top: 120px;
+    text-align: center;
+    padding-bottom: 300px;
+  }
+  
+  
+  @media screen and (min-width: 768px) {
+    .contentTop{
+      padding-top: 10px;
+      width: 40%;
+      margin: auto;
+    }
+}
